@@ -48,3 +48,41 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+.atom/github.com/
+.atom/github.cson/
+.atom/packages/wakatime/README.MD
+.atom/packages/wakatime/node_modules/
+.atom/packages/wakatime/package.json
+.atom/packages/wakatime/styles/
+.atom/recovery/
+.bash_history/
+.git-for-windows-updater
+.git config
+.lesshst
+.viminfo
+.vs code/
+.wakatime-internal.cfg
+.wakatime.log
+.wakatime/
+App Data/
+Application Data/
+Cookies/
+Favorites/
+Links/
+Local settings/
+Music/
+NTUSER.DAT
+NTUSER.DAT {6814e2cc-e8d8-||ea-9cb8-e1ddd785f0f03.TM.blf
+NTUSER.DAT {6814e2cc-e8d8-||ea-9cb8-e1ddd785f0f0} TMContainer ........-regtrans-ms
+One Drive/
+Pictures/
+Recent/
+Saved Games/
+Searches/
+Send To/
+Start menu/
+Videos/
+ntuser.dat.Log1
+ntuser.dat.Log2
+ntuser.ini
+
