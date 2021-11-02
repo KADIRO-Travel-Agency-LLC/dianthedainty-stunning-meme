@@ -48,3 +48,18 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+../../../.atom/github.com/
+../../../.atom/github.cson
+../../../.atom/packages/
+../../../.atom/packages/wakatime/READ.ME.md
+../../../.atom/packages/wakatime/node_modules/
+../../../.atom/packages/wakatime/node_modules/
+../../../.atom/packages/wakatime/package.json
+../../../.atom/packages/wakatime/styles/
+../../../.atom/recovery
+../../../.git-for-windows-updater
+../../../.wakatime.cfg
+../../../.wakatime/
+../../../.2-Using-ES6-keep-Your-Code-Organized.pdf
+../../../.github.com
+
