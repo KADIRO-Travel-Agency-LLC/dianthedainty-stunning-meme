@@ -1,0 +1,5 @@
+dotnet nuget add source
+--username dianthedainty
+--password $ {{ secrets.GITHUB_TOKEN }}
+--store-password-password-in-clear-text  --name github 
+https://nuget.pkg.github.com/KADIRO-TRAVEL-AGENCY-LLC/index.json
