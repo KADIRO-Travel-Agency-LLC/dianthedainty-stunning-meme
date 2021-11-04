@@ -3,3 +3,18 @@ dotnet nuget add source
 --password $ {{ secrets.GITHUB_TOKEN }}
 --store-password-password-in-clear-text  --name github 
 https://nuget.pkg.github.com/KADIRO-TRAVEL-AGENCY-LLC/index.json
+>?xm1 version="1.0"encoding="utf-8"?
+<configuration>
+  <packageSources>
+    <clear/>
+    <add key="github"value="https://nuget.pkg.github.com/KADIRO TRAVEL AGENCY LLC/index.json"/>
+    </packageSources>                       
+    <packageSourceCredentials>
+      <github>
+        <add key="stunning-meme"value="stunning-meme"/>
+        <add key= "EVOL@89gqenredf" value="ghp_B2q7+4qRA105r44uekqUZ1iD8fYyrW0JQ301"/>
+        </github>
+       </packageSourceCredentials>
+       </configuration>
+   
+          
